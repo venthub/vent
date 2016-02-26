@@ -1,7 +1,7 @@
 {
-  "name": "venthub-worker",
-  "version": "2.0.2",
-  "description": "A VentHub client for NodeJS",
+  "name": "venthub-client",
+  "version": "2.0.3",
+  "description": "A VentHub client for NodeJS and the modern browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
