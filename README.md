@@ -8,7 +8,7 @@ A VentHub client for NodeJS and for the modern browser
 
 ## Usage (NodeJS)
 ```js
-import Vent from 'venthub-worker';
+import Vent from 'venthub-client';
 
 // This will be called on every action recieved from the VentHub
 function actionHandler(action) {
